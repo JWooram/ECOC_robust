@@ -8,5 +8,6 @@
 * **AttackModel.py** : Attack baseline models with FGSM, PGD, C&W_L2 attacks and all other adaptations presented in the paper.
 * **IndAdvT.py** : Train ECOC ensembles with IndAdvT (adversarial examples used for adversarial training are generated on each binary classifier of the ECOC ensembles)
 * **Models.py** : PyTorch architecture of ECOC and baseline models
-* **generate_codewords.py** : script for generated random codewords. 
+* **generate_codewords.py** : script for generated random codewords.
+* **ecoc_assignment_develop_wooram** : main script of ecoc assignment optimizing by wooram
 
